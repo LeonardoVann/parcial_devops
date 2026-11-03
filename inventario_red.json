@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "hostname": "cat_9300_core",
+            "managementIpAddress": "10.10.20.81",
+            "platformId": "C9300-48UXM",
+            "softwareVersion": "16.12.1s",
+            "role": "CORE",
+            "status": "REACHABLE"
+        },
+        {
+            "hostname": "isr_4451_router",
+            "managementIpAddress": "10.10.20.82",
+            "platformId": "ISR4451-X/K9",
+            "softwareVersion": "16.9.4",
+            "role": "BORDER ROUTER",
+            "status": "REACHABLE"
+        },
+        {
+            "hostname": "ie_3400_edge",
+            "managementIpAddress": "10.10.20.85",
+            "platformId": "IE-3400-8T2S",
+            "softwareVersion": "17.1.1t",
+            "role": "ACCESS",
+            "status": "REACHABLE"
+        }
+    ]
+}
